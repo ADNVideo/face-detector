@@ -1,2 +1,2 @@
-# face-detector
-See the wiki https://github.com/ADNVideo/face-detector/wiki
+# ocr-processing
+See the wiki https://github.com/ADNVideo/ocr-processing/wiki
